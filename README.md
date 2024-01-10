@@ -5,5 +5,7 @@ I approached the YaYa Wallet webhook solution by first verifying the payload's a
 # To install the application use
 
 1, clone the repository
+
 2, cd bitbuckket
+
 3, pip install -r requirment.txt
